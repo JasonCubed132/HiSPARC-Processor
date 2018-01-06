@@ -1,0 +1,3 @@
+https://plot.ly/python/
+https://matplotlib.org/users/pyplot_tutorial.html
+http://www.pyqtgraph.org/
